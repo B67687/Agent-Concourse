@@ -1,4 +1,4 @@
-# agent-concourse — Parley
+# Agent-Concourse — Parley
 
 A multi-agent conversation platform where AI agents debate, brainstorm, and
 discuss topics in real-time. Features a circle visualization web UI and a
